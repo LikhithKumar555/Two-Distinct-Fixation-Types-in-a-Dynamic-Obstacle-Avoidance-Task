@@ -63,7 +63,7 @@ Task, gameplay mechanics, and all 30 layouts were kept identical to the base pap
 - **Self-report:** After each level, participants rated their sense of control (1–7).
 - **Session length:** about 45–60 minutes.
 
-See [`Participant_Instructions.pdf`](Participant_Instructions.pdf) for the exact instructions given to participants.
+See [`Participant_Instructions.pdf`](Participant Instructions.pdf) for the exact instructions given to participants.
 
 ## Analysis Pipeline
 
@@ -121,19 +121,19 @@ Given more than 100,000 fixations, some statistically significant effects are ve
 
 **Silhouette score by number of clusters**
 
-![Silhouette scores](figures/fig1_silhouette_score.png)
+![Silhouette scores](fig1_silhouette_score.png)
 
 **Distribution of fixations per trial, by cluster** (red line = mode)
 
-![Fixations per trial](figures/fig2_kde_fixations_per_trial.png)
+![Fixations per trial](fig2_kde_fixations_per_trial.png)
 
 **Summary panel: fixation counts and all three features, both clusters**
 
-![Summary panel](figures/fig3_summary_panel.png)
+![Summary panel](fig3_summary_panel.png)
 
 **Feature distributions by cluster**
 
-![Cluster distributions](figures/cluster_distributions.png)
+![Cluster distributions](cluster_distributions.png)
 
 ## Limitations
 
