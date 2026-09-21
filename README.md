@@ -63,7 +63,7 @@ Task, gameplay mechanics, and all 30 layouts were kept identical to the base pap
 - **Self-report:** After each level, participants rated their sense of control (1–7).
 - **Session length:** about 45–60 minutes.
 
-See [`Participant_Instructions.pdf`](Participant_Instructions.pdf) for the exact instructions given to participants.
+See [`Participant_Instructions.pdf`](Participant Instructions.pdf) for the exact instructions given to participants.
 
 **Dodge Asteroids gameplay:** the spaceship (green) falls automatically while the participant steers it left and right around the obstacles.
 
@@ -162,4 +162,4 @@ Given more than 100,000 fixations, some statistically significant effects are ve
 
 **Likhith Kumar Shivakumar**
 Bielefeld University, Germany
-[likhith.shivakumar@uni-bielefeld.de](mailto:likhith.shivakumar@uni-bielefeld.de)
+[kumarlikhith15@gmail.com](mailto:kumarlikhith15@gmail.com)
