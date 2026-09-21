@@ -154,4 +154,4 @@ Given more than 100,000 fixations, some statistically significant effects are ve
 
 **Likhith Kumar Shivakumar**
 Bielefeld University, Germany
-[likhith.shivakumar@uni-bielefeld.de](mailto:likhith.shivakumar@uni-bielefeld.de)
+[kumarlikhith15@gmail.com](mailto:kumarlikhith15@gmail.com)
