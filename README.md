@@ -39,7 +39,7 @@ The original study used 6 participants and only crash-free trials. This reposito
 
 | | Base paper [1] | This extension |
 |---|---|---|
-| Participants | 6 | 30 <!-- TODO: verify participant count against the mixed-model output (41 groups) --> |
+| Participants | 6 | 33 |
 | Fixations analysed | 31,505 | 117,859 (of 162,882 recorded) |
 | Trials analysed | Successful (crash-free) only | **Successful and failed** trials |
 | Eye-tracker | Higher-frequency specialised system | Pupil Core, chin rest |
@@ -67,11 +67,11 @@ See [`Participant_Instructions.pdf`](Participant Instructions.pdf) for the exact
 
 **Dodge Asteroids gameplay:** the spaceship (green) falls automatically while the participant steers it left and right around the obstacles.
 
-![Gameplay screenshot](Figures/eyesync_tracker.png)
+![Gameplay screenshot](Figures/eyesync_tracker.jpg)
 
 **Eye-tracker:** gaze was recorded with a Pupil Core headset from Pupil Labs.
 
-![Pupil Core eye-tracker](Figures/gameplay_screenshot.jpg)
+![Pupil Core eye-tracker](Figures/gameplay_screenshot.jpg.png)
 
 ## Analysis Pipeline
 
