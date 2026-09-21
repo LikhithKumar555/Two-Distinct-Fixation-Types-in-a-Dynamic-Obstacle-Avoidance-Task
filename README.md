@@ -67,11 +67,11 @@ See [`Participant_Instructions.pdf`](Participant Instructions.pdf) for the exact
 
 **Dodge Asteroids gameplay:** the spaceship (green) falls automatically while the participant steers it left and right around the obstacles.
 
-![Gameplay screenshot](figures/gameplay_screenshot.png)
+![Gameplay screenshot](Figures/gameplay_screenshot.png)
 
 **Eye-tracker:** gaze was recorded with a Pupil Core headset from Pupil Labs.
 
-![Pupil Core eye-tracker](figures/pupil_core_eye_tracker.jpg)
+![Pupil Core eye-tracker](Figures/pupil_core_eye_tracker.jpg)
 
 ## Analysis Pipeline
 
@@ -129,19 +129,19 @@ Given more than 100,000 fixations, some statistically significant effects are ve
 
 **Silhouette score by number of clusters**
 
-![Silhouette scores](figures/fig1_silhouette_score.png)
+![Silhouette scores](Figures/fig1_silhouette_score.png)
 
 **Distribution of fixations per trial, by cluster** (red line = mode)
 
-![Fixations per trial](figures/fig2_kde_fixations_per_trial.png)
+![Fixations per trial](Figures/fig2_kde_fixations_per_trial.png)
 
 **Summary panel: fixation counts and all three features, both clusters**
 
-![Summary panel](figures/fig3_summary_panel.png)
+![Summary panel](Figures/fig3_summary_panel.png)
 
 **Feature distributions by cluster**
 
-![Cluster distributions](figures/cluster_distributions.png)
+![Cluster distributions](Figures/cluster_distributions.png)
 
 ## Limitations
 
