@@ -67,11 +67,11 @@ See [`Participant_Instructions.pdf`](Participant Instructions.pdf) for the exact
 
 **Dodge Asteroids gameplay:** the spaceship (green) falls automatically while the participant steers it left and right around the obstacles.
 
-![Gameplay screenshot](Figures/eyesync_tracker.jpg)
+![Gameplay screenshot](Figures/gameplay_screenshot.jpg.png)
 
 **Eye-tracker:** gaze was recorded with a Pupil Core headset from Pupil Labs.
 
-![Pupil Core eye-tracker](Figures/gameplay_screenshot.jpg.png)
+![Pupil Core eye-tracker](Figures/eyesync_tracker.jpg)
 
 ## Analysis Pipeline
 
