@@ -39,7 +39,7 @@ The original study used 6 participants and only crash-free trials. This reposito
 
 | | Base paper [1] | This extension |
 |---|---|---|
-| Participants | 6 | 33 |
+| Participants | 6 | 30 <!-- TODO: verify participant count against the mixed-model output (41 groups) --> |
 | Fixations analysed | 31,505 | 117,859 (of 162,882 recorded) |
 | Trials analysed | Successful (crash-free) only | **Successful and failed** trials |
 | Eye-tracker | Higher-frequency specialised system | Pupil Core, chin rest |
@@ -63,7 +63,15 @@ Task, gameplay mechanics, and all 30 layouts were kept identical to the base pap
 - **Self-report:** After each level, participants rated their sense of control (1–7).
 - **Session length:** about 45–60 minutes.
 
-See [`Participant_Instructions.pdf`](Participant Instructions.pdf) for the exact instructions given to participants.
+See [`Participant_Instructions.pdf`](Participant_Instructions.pdf) for the exact instructions given to participants.
+
+**Dodge Asteroids gameplay:** the spaceship (green) falls automatically while the participant steers it left and right around the obstacles.
+
+![Gameplay screenshot](figures/gameplay_screenshot.png)
+
+**Eye-tracker:** gaze was recorded with a Pupil Core headset from Pupil Labs.
+
+![Pupil Core eye-tracker](figures/pupil_core_eye_tracker.jpg)
 
 ## Analysis Pipeline
 
@@ -121,19 +129,19 @@ Given more than 100,000 fixations, some statistically significant effects are ve
 
 **Silhouette score by number of clusters**
 
-![Silhouette scores](fig1_silhouette_score.png)
+![Silhouette scores](figures/fig1_silhouette_score.png)
 
 **Distribution of fixations per trial, by cluster** (red line = mode)
 
-![Fixations per trial](fig2_kde_fixations_per_trial.png)
+![Fixations per trial](figures/fig2_kde_fixations_per_trial.png)
 
 **Summary panel: fixation counts and all three features, both clusters**
 
-![Summary panel](fig3_summary_panel.png)
+![Summary panel](figures/fig3_summary_panel.png)
 
 **Feature distributions by cluster**
 
-![Cluster distributions](cluster_distributions.png)
+![Cluster distributions](figures/cluster_distributions.png)
 
 ## Limitations
 
@@ -154,4 +162,4 @@ Given more than 100,000 fixations, some statistically significant effects are ve
 
 **Likhith Kumar Shivakumar**
 Bielefeld University, Germany
-[kumarlikhith15@gmail.com](mailto:kumarlikhith15@gmail.com)
+[likhith.shivakumar@uni-bielefeld.de](mailto:likhith.shivakumar@uni-bielefeld.de)
